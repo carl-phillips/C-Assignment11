@@ -1,0 +1,88 @@
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\CIS174_TestCoreApp.deps.json
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\CIS174_TestCoreApp.runtimeconfig.json
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\CIS174_TestCoreApp.runtimeconfig.dev.json
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\CIS174_TestCoreApp.dll
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\CIS174_TestCoreApp.pdb
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\CIS174_TestCoreApp.Views.dll
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\CIS174_TestCoreApp.Views.pdb
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.csprojAssemblyReference.cache
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.RazorAssemblyInfo.cache
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.RazorAssemblyInfo.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.AssemblyInfoInputs.cache
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.AssemblyInfo.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.TagHelpers.input.cache
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.TagHelpers.output.cache
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.RazorCoreGenerate.cache
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.RazorTargetAssemblyInfo.cache
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.RazorTargetAssemblyInfo.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.Views.pdb
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.dll
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.pdb
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.csproj.CopyComplete
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Assignment7\Index.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Persons\Create.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Persons\CreateAccomplishment.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Persons\Delete.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Persons\Details.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Persons\Edit.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Persons\Index.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Person\Index.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Student\Student.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Carl\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\CIS174_TestCoreApp.deps.json
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\CIS174_TestCoreApp.runtimeconfig.json
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\CIS174_TestCoreApp.runtimeconfig.dev.json
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\CIS174_TestCoreApp.dll
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\CIS174_TestCoreApp.pdb
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\CIS174_TestCoreApp.Views.dll
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\bin\Release\netcoreapp2.1\CIS174_TestCoreApp.Views.pdb
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.csprojAssemblyReference.cache
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.RazorAssemblyInfo.cache
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.RazorAssemblyInfo.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.AssemblyInfoInputs.cache
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.AssemblyInfo.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.TagHelpers.input.cache
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.TagHelpers.output.cache
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.RazorCoreGenerate.cache
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Assignment7\Index.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Persons\Create.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Persons\CreateAccomplishment.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Persons\Delete.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Persons\Details.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Persons\Edit.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Persons\Index.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Person\Index.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\Student\Student.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.RazorTargetAssemblyInfo.cache
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.RazorTargetAssemblyInfo.cs
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.Views.pdb
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.dll
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.pdb
+C:\Users\Carl - Work\Desktop\Assignment_5_1_StarterCode\CIS174_TestCoreApp\obj\Release\netcoreapp2.1\CIS174_TestCoreApp.csproj.CopyComplete

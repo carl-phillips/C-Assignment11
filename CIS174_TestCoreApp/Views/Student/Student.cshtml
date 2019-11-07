@@ -1,0 +1,56 @@
+﻿@model List<CIS174_TestCoreApp.Models.StudentViewModel>
+
+@{
+    ViewData["Title"] = "Student";
+}
+
+<h2>Students</h2>
+
+<h4>List of All Students</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <div class="form-group">
+            @if (ViewBag.AccessLevel >= 8)
+            {
+                <label>Hello Admin</label>
+            }
+            @foreach (var i in Model)
+            {
+                <div>
+                    <table>
+                        @if (ViewBag.AccessLevel <= 2)
+                        {
+                            <label>You do not have a sufficient access level to view this data.</label>
+                        }
+                        else if (ViewBag.AccessLevel >= 2 && ViewBag.AccessLevel <= 8)
+                        {
+                            <tr>
+                                <th> First Name: &nbsp;</th>
+                                <td> @i.FirstName &nbsp;</td>
+                                <th> Last Name: &nbsp;</th>
+                                <td> @i.LastName &nbsp;</td>
+                            </tr>
+                        }
+                        else
+                        {
+                            <tr>
+                                <th> First Name: &nbsp;</th>
+                                <td> @i.FirstName &nbsp;</td>
+                                <th> Last Name: &nbsp;</th>
+                                <td> @i.LastName &nbsp;</td>
+                                <th> Grade: &nbsp;</th>
+                                <td> @i.Grade &nbsp;</td>
+                            </tr>
+                        }
+                    </table>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
