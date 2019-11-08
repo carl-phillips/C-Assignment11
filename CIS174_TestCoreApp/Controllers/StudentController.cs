@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CIS174_TestCoreApp.Filters;
 using CIS174_TestCoreApp.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -11,6 +12,7 @@ namespace CIS174_TestCoreApp.Controllers
     public class StudentController : Controller
     {
         // GET: Student
+        [HandleException]
         public IActionResult Index()
         {
             return View();

@@ -5,9 +5,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using CIS174_TestCoreApp.Models;
+using CIS174_TestCoreApp.Filters;
 
 namespace CIS174_TestCoreApp.Controllers
 {
+    [HandleException]
     public class HomeController : Controller
     {
         public IActionResult Index()

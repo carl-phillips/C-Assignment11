@@ -15,7 +15,7 @@ namespace CIS174_TestCoreApp.Filters
         public int Order => -1;
         public bool isEnabled { get; set; }
 
-        private readonly logContext;
+        private readonly LogContext _logContext;
 
         public void OnResourceExecuted(ResourceExecutedContext context)
         {
@@ -29,8 +29,13 @@ namespace CIS174_TestCoreApp.Filters
                 Response = context.HttpContext.Response.ContentType
             };
 
+            LogContext logContext = new LogContext();
+            
             logContext.Add(log);
             logContext.SaveChanges();
+
+            context.HttpContext.Items.Add("Log", log);
+            
         }
 
         public void OnResourceExecuting(ResourceExecutingContext context)

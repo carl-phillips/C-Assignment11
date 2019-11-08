@@ -12,14 +12,16 @@ using CIS174_TestCoreApp.Filters;
 namespace CIS174_TestCoreApp.Controllers.api
 {
     [LogResourceFilter]
+    [HandleException]
     [FeatureEnabled(IsEnabled = true)]
     [Route("api/People")]
     [ApiController]
     public class PeopleController : ControllerBase
     {
+
         private readonly PersonContext _context;
 
-        public PeopleController(PersonContext context)
+        public PeopleController(PersonContext context, LogContext logContext)
         {
             _context = context;
         }
@@ -37,7 +39,6 @@ namespace CIS174_TestCoreApp.Controllers.api
         [HttpGet("{id}")]
         public async Task<IActionResult> GetPerson([FromRoute] int id)
         {
-
             var person = await _context.Persons.FindAsync(id);
 
             return Ok(person);

@@ -9,6 +9,10 @@ namespace CIS174_TestCoreApp
 {
     public class ErrorLogContext : DbContext
     {
+        public ErrorLogContext()
+        {
+        }
+
         public ErrorLogContext(DbContextOptions<ErrorLogContext> options) : base(options)
         {
 

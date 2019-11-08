@@ -9,6 +9,10 @@ namespace CIS174_TestCoreApp
 {
     public class LogContext : DbContext
     {
+        public LogContext()
+        {
+        }
+
         public LogContext(DbContextOptions<LogContext> options) : base(options)
         {
 

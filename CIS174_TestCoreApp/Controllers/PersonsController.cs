@@ -11,7 +11,7 @@ using CIS174_TestCoreApp.Filters;
 
 namespace CIS174_TestCoreApp.Controllers.api
 {
-    
+    [HandleException]
     public class PersonsController : Controller
     {
         private readonly PersonContext _context;
